@@ -6,4 +6,4 @@ You can use Python 3.3 or any newer Python with this tutorial. Don't use Python 
 # List of contents
 ## Basics
 This section will get you started with using Python and you'll be able to learn more about whatever you want after studying it.
-   1. [Python Introduction](https://pages.github.com/).
+   1. [Python Introduction](https://github.com/aparnaaidith/Python-Basics/blob/master/Python%20Introduction.ipynb).
